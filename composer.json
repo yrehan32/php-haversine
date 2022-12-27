@@ -1,0 +1,19 @@
+{
+    "name": "yrehan32/php-haversine",
+    "description": "A package used to calculate the distance between two coordinate points using the haversine algorithm",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yrehan32\\PhpHaversine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yrehan32",
+            "email": "mail@yrehan.my.id",
+            "homepage": "https://github.com/yrehan32"
+        }
+    ],
+    "require": {}
+}
